@@ -1,0 +1,48 @@
+[33mcommit 339121f360ca4e05ba5298596bd5c55bb92e3b90[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 88880e3 008be8c
+Author: Jaivin <jaivinvenkolla@gmail.com>
+Date:   Sat May 8 00:25:44 2021 +0530
+
+    conflict fixed
+
+[33mcommit 88880e38824342f2440589a6264b0bba92d202f1[m
+Author: Jaivin <jaivinvenkolla@gmail.com>
+Date:   Sat May 8 00:22:16 2021 +0530
+
+    negative answer
+
+[33mcommit 008be8caafc84d82a9c9ab5d74c2bc57ab8b6b4c[m[33m ([m[1;32mfeature[m[33m)[m
+Author: Jaivin <jaivinvenkolla@gmail.com>
+Date:   Sat May 8 00:20:22 2021 +0530
+
+    positive answer added
+
+[33mcommit c0933afffa52a2cb663d58482494f28830c3c5d3[m
+Author: Jaivin <jaivinvenkolla@gmail.com>
+Date:   Fri May 7 23:57:52 2021 +0530
+
+    hey file modified
+
+[33mcommit 4dcd7d85d0b0eea7ae952698b9f89cf7ec72d957[m
+Author: Jaivin <jaivinvenkolla@gmail.com>
+Date:   Fri May 7 23:34:42 2021 +0530
+
+    hey file edited
+
+[33mcommit 3f38f004be56a952e44b3c6cdc45b22ab9a35907[m
+Author: Jaivin <jaivinvenkolla@gmail.com>
+Date:   Fri May 7 23:27:16 2021 +0530
+
+    Second file added
+
+[33mcommit 6cba09440b2ae246a490ef5060ec082a9607fd65[m
+Author: Jaivin <jaivinvenkolla@gmail.com>
+Date:   Fri May 7 21:23:04 2021 +0530
+
+    added some messeges
+
+[33mcommit 37b5e1bb6c7d38d5f64e2578b150ab1eb9241a3c[m
+Author: Jaivin <jaivinvenkolla@gmail.com>
+Date:   Fri May 7 21:14:47 2021 +0530
+
+    Initial Commit
